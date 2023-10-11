@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1697030050 "/Users/kunlaszlo/Desktop/LaTex/Dinamika_zh1/dinamika_zh_1.tex" "dinamika_zh_1.pdf" "dinamika_zh_1" 1697030052 0
-  "/Users/kunlaszlo/Desktop/LaTex/Dinamika_zh1/dinamika_zh_1.tex" 1697030043 12074 075a9c195aa682e1222521eb31bacd22 ""
+["pdflatex"] 1697040706 "/Users/kunlaszlo/Desktop/LaTex/Dinamika_zh1/dinamika_zh_1.tex" "dinamika_zh_1.pdf" "dinamika_zh_1" 1697040711 0
+  "/Users/kunlaszlo/Desktop/LaTex/Dinamika_zh1/dinamika_zh_1.tex" 1697040705 12478 783103de12c07d5de69bbcefeb9d116c ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/ecbx1095.tfm" 1136768653 3584 21b378cca2e40816b0e6d74a4dc98f04 ""
@@ -266,11 +266,13 @@
   "Képek/2009.10.13_A.pdf" 1697024746 56202 03642805ce2ca6120fdce849b4d2a596 ""
   "Képek/2009.10.13_B.pdf" 1697024119 55553 7f9ade3621c549ac18554201bac51820 ""
   "Képek/2010.10.11.pdf" 1697029319 889389 59cbb0a49a699d8a878ac2259b054b76 ""
+  "Képek/2010.10.12.pdf" 1697040513 1669886 12d0c6cd93af5b90daf58c48f1bf5713 ""
   "Képek/2011.10.13.pdf" 1697027694 50405 e0fadc483db949751a62f78066c1c738 ""
+  "Képek/2015-16_1.pdf" 1697040335 895701 c72a533713be678a1a69daeb8e784ade ""
   "bme_logo_nagy.jpg" 1693560752 421830 a5636598bddde377b7fb371981dc1356 ""
-  "dinamika_zh_1.aux" 1697030052 635 5aa2565c85af42d27726a2470b3712fe "pdflatex"
-  "dinamika_zh_1.out" 1697030051 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "dinamika_zh_1.tex" 1697030043 12074 075a9c195aa682e1222521eb31bacd22 ""
+  "dinamika_zh_1.aux" 1697040710 635 5aa2565c85af42d27726a2470b3712fe "pdflatex"
+  "dinamika_zh_1.out" 1697040709 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "dinamika_zh_1.tex" 1697040705 12478 783103de12c07d5de69bbcefeb9d116c ""
   (generated)
   "dinamika_zh_1.aux"
   "dinamika_zh_1.log"

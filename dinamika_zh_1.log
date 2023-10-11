@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.18)  11 OCT 2023 15:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.18)  11 OCT 2023 18:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -998,7 +998,7 @@ File: Képek/2009.10.13_B.pdf Graphic file (type pdf)
 Package pdftex.def Info: Képek/2009.10.13_B.pdf  used on input line 166.
 (pdftex.def)             Requested size: 388.37646pt x 201.96971pt.
 [2 <./Képek/2009.10.13_B.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 190--200
+Underfull \hbox (badness 10000) in paragraph at lines 190--212
 
  []
 
@@ -1008,63 +1008,61 @@ pdfTeX warning: pdflatex (file ./Képek/2010.10.11.pdf): PDF inclusion: found PD
 <Képek/2010.10.11.pdf, id=87, 206.56773pt x 203.15297pt>
 File: Képek/2010.10.11.pdf Graphic file (type pdf)
 <use Képek/2010.10.11.pdf>
-Package pdftex.def Info: Képek/2010.10.11.pdf  used on input line 201.
+Package pdftex.def Info: Képek/2010.10.11.pdf  used on input line 216.
 (pdftex.def)             Requested size: 179.25418pt x 176.29216pt.
 [3 <./Képek/2010.10.11.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 225--232
-
- []
-
-File: Képek/2009.10.13_B.pdf Graphic file (type pdf)
-<use Képek/2009.10.13_B.pdf>
-Package pdftex.def Info: Képek/2009.10.13_B.pdf  used on input line 233.
-(pdftex.def)             Requested size: 209.1314pt x 108.75513pt.
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 257--264
+Underfull \hbox (badness 10000) in paragraph at lines 240--253
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 257--264
+
+pdfTeX warning: pdflatex (file ./Képek/2010.10.12.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<Képek/2010.10.12.pdf, id=129, 488.25009pt x 359.0745pt>
+File: Képek/2010.10.12.pdf Graphic file (type pdf)
+<use Képek/2010.10.12.pdf>
+Package pdftex.def Info: Képek/2010.10.12.pdf  used on input line 255.
+(pdftex.def)             Requested size: 209.1314pt x 153.8018pt.
+[4 <./Képek/2010.10.12.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 279--293
 
  []
 
-<Képek/2011.10.13.pdf, id=137, 258.9675pt x 115.43124pt>
+<Képek/2011.10.13.pdf, id=182, 258.9675pt x 115.43124pt>
 File: Képek/2011.10.13.pdf Graphic file (type pdf)
 <use Képek/2011.10.13.pdf>
-Package pdftex.def Info: Képek/2011.10.13.pdf  used on input line 265.
+Package pdftex.def Info: Képek/2011.10.13.pdf  used on input line 298.
 (pdftex.def)             Requested size: 388.37646pt x 173.13234pt.
 [5 <./Képek/2011.10.13.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 294--301
+Underfull \hbox (badness 10000) in paragraph at lines 327--340
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 294--301
 
- []
-
-File: Képek/2011.10.13.pdf Graphic file (type pdf)
-<use Képek/2011.10.13.pdf>
-Package pdftex.def Info: Képek/2011.10.13.pdf  used on input line 302.
-(pdftex.def)             Requested size: 209.1314pt x 93.22226pt.
-[6] (./dinamika_zh_1.aux)
+pdfTeX warning: pdflatex (file ./Képek/2015-16_1.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<Képek/2015-16_1.pdf, id=206, 182.09831pt x 142.0748pt>
+File: Képek/2015-16_1.pdf Graphic file (type pdf)
+<use Képek/2015-16_1.pdf>
+Package pdftex.def Info: Képek/2015-16_1.pdf  used on input line 341.
+(pdftex.def)             Requested size: 298.75394pt x 233.0952pt.
+[6 <./Képek/2015-16_1.pdf>] (./dinamika_zh_1.aux)
 Package rerunfilecheck Info: File `dinamika_zh_1.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 38544 strings out of 476025
- 881297 string characters out of 5790017
- 1857388 words of memory out of 5000000
- 58330 multiletter control sequences out of 15000+600000
+ 38558 strings out of 476025
+ 881680 string characters out of 5790017
+ 1859388 words of memory out of 5000000
+ 58342 multiletter control sequences out of 15000+600000
  527547 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,9n,94p,803b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb>
-Output written on dinamika_zh_1.pdf (7 pages, 1598204 bytes).
+Output written on dinamika_zh_1.pdf (7 pages, 4054056 bytes).
 PDF statistics:
- 250 PDF objects out of 1000 (max. 8388607)
- 167 compressed objects within 2 object streams
+ 328 PDF objects out of 1000 (max. 8388607)
+ 195 compressed objects within 2 object streams
  33 named destinations out of 1000 (max. 500000)
- 38 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 48 words of extra memory for PDF output out of 10000 (max. 10000000)
 
