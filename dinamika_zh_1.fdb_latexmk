@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1697025062 "/Users/kunlaszlo/Desktop/LaTex/Dinamika_zh1/dinamika_zh_1.tex" "dinamika_zh_1.pdf" "dinamika_zh_1" 1697025064 0
-  "/Users/kunlaszlo/Desktop/LaTex/Dinamika_zh1/dinamika_zh_1.tex" 1697025061 6453 cf19c56eef3d000e419f6f91c4fbb5b4 ""
+["pdflatex"] 1697030050 "/Users/kunlaszlo/Desktop/LaTex/Dinamika_zh1/dinamika_zh_1.tex" "dinamika_zh_1.pdf" "dinamika_zh_1" 1697030052 0
+  "/Users/kunlaszlo/Desktop/LaTex/Dinamika_zh1/dinamika_zh_1.tex" 1697030043 12074 075a9c195aa682e1222521eb31bacd22 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/ecbx1095.tfm" 1136768653 3584 21b378cca2e40816b0e6d74a4dc98f04 ""
@@ -43,7 +43,9 @@
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1248133631 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb" 1248133631 35469 70d41d2b9ea31d5d813066df7c99281c ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
+  "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb" 1248133631 32734 69e00a6b65cedb993666e42eedb3d48f ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1248133631 32726 0a1aea6fcd6468ee2cf64d891f5c43c8 ""
+  "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1248133631 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb" 1248133631 32626 4f5c1b83753b1dd3a97d1b399a005b4b ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb" 1215737283 154600 ea54091d31de803b613ba9e80ca51709 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb" 1215737283 135942 859a90cad7494a1e79c94baf546d7de5 ""
@@ -263,10 +265,12 @@
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
   "Képek/2009.10.13_A.pdf" 1697024746 56202 03642805ce2ca6120fdce849b4d2a596 ""
   "Képek/2009.10.13_B.pdf" 1697024119 55553 7f9ade3621c549ac18554201bac51820 ""
+  "Képek/2010.10.11.pdf" 1697029319 889389 59cbb0a49a699d8a878ac2259b054b76 ""
+  "Képek/2011.10.13.pdf" 1697027694 50405 e0fadc483db949751a62f78066c1c738 ""
   "bme_logo_nagy.jpg" 1693560752 421830 a5636598bddde377b7fb371981dc1356 ""
-  "dinamika_zh_1.aux" 1697025063 635 dd42b729ce3bb978f9e3972309fa51ad "pdflatex"
-  "dinamika_zh_1.out" 1697025063 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "dinamika_zh_1.tex" 1697025061 6453 cf19c56eef3d000e419f6f91c4fbb5b4 ""
+  "dinamika_zh_1.aux" 1697030052 635 5aa2565c85af42d27726a2470b3712fe "pdflatex"
+  "dinamika_zh_1.out" 1697030051 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "dinamika_zh_1.tex" 1697030043 12074 075a9c195aa682e1222521eb31bacd22 ""
   (generated)
   "dinamika_zh_1.aux"
   "dinamika_zh_1.log"

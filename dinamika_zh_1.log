@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.18)  11 OCT 2023 13:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.18)  11 OCT 2023 15:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -956,68 +956,115 @@ Package pdftex.def Info: bme_logo_nagy.jpg  used on input line 46.
 
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc} <./bme_logo_nagy.jpg>]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 103.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 104.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 103.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 104.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+esint on input line 103.
+LaTeX Font Info:    Trying to load font information for U+esint on input line 104.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/esint/uesint.fd
 File: uesint.fd 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 100--109
+Underfull \hbox (badness 10000) in paragraph at lines 100--115
 
  []
 
 <Képek/2009.10.13_A.pdf, id=19, 260.75717pt x 243.89117pt>
 File: Képek/2009.10.13_A.pdf Graphic file (type pdf)
 <use Képek/2009.10.13_A.pdf>
-Package pdftex.def Info: Képek/2009.10.13_A.pdf  used on input line 110.
+Package pdftex.def Info: Képek/2009.10.13_A.pdf  used on input line 116.
 (pdftex.def)             Requested size: 268.87671pt x 251.4898pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.129 \newpage
+l.135 \newpage
                [1 <./Képek/2009.10.13_A.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 137--146
+Underfull \hbox (badness 10000) in paragraph at lines 143--146
 
  []
 
-<Képek/2009.10.13_B.pdf, id=56, 300.38524pt x 156.20659pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--146
+
+ []
+
+<Képek/2009.10.13_B.pdf, id=57, 300.38524pt x 156.20659pt>
 File: Képek/2009.10.13_B.pdf Graphic file (type pdf)
 <use Képek/2009.10.13_B.pdf>
-Package pdftex.def Info: Képek/2009.10.13_B.pdf  used on input line 147.
+Package pdftex.def Info: Képek/2009.10.13_B.pdf  used on input line 166.
 (pdftex.def)             Requested size: 388.37646pt x 201.96971pt.
 [2 <./Képek/2009.10.13_B.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 171--178
+Underfull \hbox (badness 10000) in paragraph at lines 190--200
+
+ []
+
+
+
+pdfTeX warning: pdflatex (file ./Képek/2010.10.11.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<Képek/2010.10.11.pdf, id=87, 206.56773pt x 203.15297pt>
+File: Képek/2010.10.11.pdf Graphic file (type pdf)
+<use Képek/2010.10.11.pdf>
+Package pdftex.def Info: Képek/2010.10.11.pdf  used on input line 201.
+(pdftex.def)             Requested size: 179.25418pt x 176.29216pt.
+[3 <./Képek/2010.10.11.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 225--232
 
  []
 
 File: Képek/2009.10.13_B.pdf Graphic file (type pdf)
 <use Képek/2009.10.13_B.pdf>
-Package pdftex.def Info: Képek/2009.10.13_B.pdf  used on input line 179.
-(pdftex.def)             Requested size: 388.37646pt x 201.96971pt.
-[3] (./dinamika_zh_1.aux)
+Package pdftex.def Info: Képek/2009.10.13_B.pdf  used on input line 233.
+(pdftex.def)             Requested size: 209.1314pt x 108.75513pt.
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 257--264
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 257--264
+
+ []
+
+<Képek/2011.10.13.pdf, id=137, 258.9675pt x 115.43124pt>
+File: Képek/2011.10.13.pdf Graphic file (type pdf)
+<use Képek/2011.10.13.pdf>
+Package pdftex.def Info: Képek/2011.10.13.pdf  used on input line 265.
+(pdftex.def)             Requested size: 388.37646pt x 173.13234pt.
+[5 <./Képek/2011.10.13.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 294--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--301
+
+ []
+
+File: Képek/2011.10.13.pdf Graphic file (type pdf)
+<use Képek/2011.10.13.pdf>
+Package pdftex.def Info: Képek/2011.10.13.pdf  used on input line 302.
+(pdftex.def)             Requested size: 209.1314pt x 93.22226pt.
+[6] (./dinamika_zh_1.aux)
 Package rerunfilecheck Info: File `dinamika_zh_1.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 38513 strings out of 476025
- 880791 string characters out of 5790017
- 1856388 words of memory out of 5000000
- 58318 multiletter control sequences out of 15000+600000
+ 38544 strings out of 476025
+ 881297 string characters out of 5790017
+ 1857388 words of memory out of 5000000
+ 58330 multiletter control sequences out of 15000+600000
  527547 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,5n,94p,803b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb>
-Output written on dinamika_zh_1.pdf (4 pages, 693236 bytes).
+ 99i,9n,94p,803b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb>
+Output written on dinamika_zh_1.pdf (7 pages, 1598204 bytes).
 PDF statistics:
- 163 PDF objects out of 1000 (max. 8388607)
- 110 compressed objects within 2 object streams
- 16 named destinations out of 1000 (max. 500000)
- 28 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 250 PDF objects out of 1000 (max. 8388607)
+ 167 compressed objects within 2 object streams
+ 33 named destinations out of 1000 (max. 500000)
+ 38 words of extra memory for PDF output out of 10000 (max. 10000000)
 
